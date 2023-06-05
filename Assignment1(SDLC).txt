@@ -1,0 +1,18 @@
+What is Software?
+Software is a group of programs that is created with different tools available in market.
+different phases of SDLC are:
+1 - Planning : Planning for the quality assurance requirements and identifications of the risks associated with the projects is done at this stage.
+2 - Defining : Once the requirement analysis is done, the next stage is to certainly represent and document the software requirements and get them accepted 	       from the project stakeholders.
+3 - Designing : The next phase is about to bring down all the knowledge of requirements, analysis, and design of the software project.
+4 - Building : In this phase of SDLC, the actual development begins, and the programming is built. The implementation of design begins concerning writing 	       code. 
+5 - Testing : After the code is generated, it is tested against the requirements to make sure that the products are solving the needs addressed and gathered 	      during the requirements stage.
+6 - Deployment : Once the software is certified, and no bugs or errors are stated, then it is deployed.
+
+What is Program?
+Peogram is a group of instructions.
+
+What is instructions?
+It is a group of code.
+
+Whta is python?
+Python is programming language which is used to build various web applications and frameworks.
