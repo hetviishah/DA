@@ -1,0 +1,21 @@
+driver_id,driver_name,passenger_id,passenger_name,total_fair,reservasion_date,availability,pick_up,drop_off,reservation_datetime
+1375,Mihir,286492,Akshay Patel,289,30-03-2016,R,naroda,bopal,30-03-2016 13:23
+1831,Jignesh,489327,Ishita Gajjar,385,04-05-2019,R,Modasa,Limdi,04-05-2019 15:45
+2894,Hemant,478352,Kritika Arya,520,25-12-2008,R,Morbi,Jamnagar,25-12-2008 11:12
+2901,Sahil,830219,Parag Panchal,300,16-02-2015,NA,ahmedabad,gandhinagar,16-02-2015 14:56
+3180,Madhav,994577,Pankaj Chauhan,625,17-03-2010,R,dahod,godhra,17-03-2010 09:40
+3271,Deva,628493,Kavita Sheth,472,10-08-2022,NA,science city,nikol,10-08-2022 03:10
+4276,Jay,993710,Priya Shah,1000,19-05-2022,NA,vadaj,shivranjani,19-05-2022 20:40
+4922,Prakash,338299,Tina Maheshwari,1030,22-09-2022,A,paldi,amreli,22-09-2022 07:28
+4932,Ajay,532198,Devi Sharma,170,20-09-2018,A,manimagar,C G road,20-09-2018 10:17
+5275,Dhiraj,847325,Mitesh Zala,874,18-10-2022,A,Nadiad,Dholka,18-10-2022 01:09
+5838,Sanjeev,356231,Alka Goswami,937,21-06-2023,R,kankariya,vadodara,21-06-2023 04:22
+6529,Rajesh,195374,Neesha Bhatt,538,29-11-2020,A,surat,rajkot,29-11-2020 19:38
+6627,Avinash,382914,Diya Thakkar,480,16-06-2016,A,Mehsana,Aanand,16-06-2016 12:58
+7213,Himesh,726194,Jyoti Verma,175,20-10-2021,R,shyamal,S G highway,20-10-2021 02:00
+7291,Chandu,194738,Jhanvi Prakash,100,02-03-2011,NA,Jitpur,Bayad,02-03-2011 22:43
+7821,Keshav,289436,Megha Shah,310,10-02-2018,NA,vastral,gota,10-02-2018 04:27
+8092,Raghav,479216,Varun Shah,725,07-04-2019,A,baroda,udaipur,07-04-2019 08:07
+8200,Vikas,392011,Mahesh Chavda,291,18-07-2011,NA,manekbaug,sarkhej,18-07-2011 13:31
+8437,Vinay,538921,Naman Patel,745,30-09-2015,NA,Bhuj,Anjar,30-09-2015 16:02
+9324,Puneet,518432,Heena Gandhi,628,29-01-2017,A,nehrunagar,gota,29-01-2017 23:11
