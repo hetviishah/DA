@@ -1,0 +1,9 @@
+EmpId,EmpName,EmpLastName,JobId,JobRole,ManagerName,ManagerId,HireDate,Salary,Commission,City,managerHireDate,managerlastname,managersalary,resignation_date_emp
+7209,Keyur,Shah,42,Clerk,Kalpesh,391,27-12-2016,50030,1050,Rajkot,10-10-2020,Fillmore,123456,25-09-2020
+7238,Nisha,Goel,20,Sales,Rajeev,429,30-11-2019,5000,570,Surat,06-09-2018,Shrivastava,109803,12-04-2022
+7328,Geeta,Joshi,21,Sales,Mohit,0,18-06-2021,30200,0,Vadodara,11-11-2019,Gandhi,45000,05-03-2023
+7389,jagruti,malhotra,29,mentor,,0,07-07-2019,10100,809,surat,10-01-2021,,20900,12-12-2021
+7467,Rahul,Patel,46,Clerk,Kalpesh,291,19-09-2022,30200,1000,Ahmedabad,20-10-2011,Shashtri,98000,19-07-2023
+7777,naman,agsthi,44,clerk,mohit,589,11-03-2019,1000,380,himmatnagar,30-04-2022,Fillmore,112000,10-02-2021
+7843,Hetal,Soni,28,fresher,Jignesh,361,09-04-2017,2000,0,Ahmedabad,19-05-2018,Bhatt,209000,30-04-2019
+7846,Disha,Parmar,35,Sales,tezas,284,21-01-2020,20000,450,Nagpur,07-02-2017,Shah,80000,29-10-2022
