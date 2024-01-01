@@ -1,0 +1,44 @@
+﻿ Company Name         , Product Name       , Product Category     , Technology Type  , Market Segment  , Revenue(Millions) , R&D Expenditure(Millions) , Number of Employees , Industry Focus    , Country      , City        , Year Founded , Partnership Status , Customer Satisfaction Index ,Sales(Millions)
+ InnovateSolutions , CodeCraft A    , Software          , Machine Learning    , IT               ,120,15,5500, IT Services    , USA        , San Francisco ,2010, Active                ,92,105
+ TechPioneers    , NanoPod B       , Electronics       , Nanotechnology      , Research         ,80,12,4000, Technology     , Germany    , Munich     ,2011, Inactive              ,89,98
+ QuantumTech     , QuantumCraze C  , Electronics       , Quantum Computing   , Research         ,180,22,7200, Technology     , Japan      , Tokyo      ,2013, Active                ,85,125
+ RoboDynamics    , AutoMate D      , Robotics          , Automation          , Industrial       ,100,18,5000, Manufacturing  , China      , Beijing    ,2015, Active                ,88,102
+ BioInnovate     , MedTech E       , Healthcare        , Biotechnology       , Medical          ,150,20,6000, Health         , USA        , Boston     ,2009, Inactive              ,91,115
+ TechSolutions   , DataFlow F      , Software          , AI                  , B2B              ,130,17,5800, IT Services    , UK         , London     ,2007, Active                ,86,110
+ AeroGenius      , SkyBlaze G      , Aerospace         , AI                  , Defense          ,250,30,9000, Aerospace      , Canada     , Toronto    ,2006, Inactive              ,88,135
+ GreenTech       , EcoPower H      , Energy            , Renewable Energy    , Green Energy     ,160,21,6700, Energy         , Australia   , Sydney     ,2014, Active                ,87,120
+ InnovateNow     , TechWave I      , Electronics       , IoT                 , Research         ,200,24,8000, Technology     , Germany    , Berlin     ,2012, Active                ,90,130
+ QuantumInnovate , QuantumSpeed J  , Electronics       , Quantum Computing   , Research         ,220,26,8500, Technology     , Japan      , Osaka      ,2008, Active                ,86,138
+ RoboSolutions   , RoboGuard K      , Robotics          , Automation          , Industrial       ,110,16,5200, Manufacturing  , China      , Shanghai   ,2011, Inactive              ,84,98
+ BioTechLabs     , MedCare L       , Healthcare        , Biotechnology       , Medical          ,190,23,7300, Health         , USA        , San Diego  ,2016, Active                ,92,128
+ LogicWare       , DataMaster M     , Software          , AI                  , B2B              ,140,19,6200, IT Services    , UK         , Manchester ,2010, Inactive              ,89,112
+ AeroTech        , AeroSwift N      , Aerospace         , AI                  , Defense          ,300,35,9500, Aerospace      , Canada     , Vancouver  ,2007, Active                ,87,145
+ GreenPower      , EcoHeat O        , Energy            , Renewable Energy    , Green Energy     ,170,22,7000, Energy         , Australia   , Melbourne  ,2005, Inactive              ,83,105
+ InnovationTech  , TechGenius P     , Electronics       , Quantum Computing   , Research         ,240,28,8800, Technology     , Japan      , Kyoto      ,2013, Active                ,85,138
+ Robotify        , AutoMate Q       , Robotics          , Automation          , Industrial       ,125,17,5300, Manufacturing  , China      , Shenzhen   ,2014, Inactive              ,87,100
+ HealthSolutions , BioGen R         , Healthcare        , Biotechnology       , Medical          ,210,25,7800, Health         , USA        , Boston     ,2011, Active                ,88,132
+ SoftInnovate    , DataBoost S      , Software          , AI                  , B2B              ,150,20,6400, IT Services    , UK         , Birmingham ,2008, Inactive              ,90,118
+ AeroDynamics    , AeroTech T       , Aerospace         , AI                  , Defense          ,280,33,9200, Aerospace      , Canada     , Montreal   ,2013, Active                ,86,145
+ GreenEnergy     , EcoLight U       , Energy            , Renewable Energy    , Green Energy     ,180,23,7100, Energy         , Australia   , Brisbane   ,2006, Inactive              ,84,110
+ InnovateTech    , TechBeam V       , Electronics       , IoT                 , Research         ,200,24,8200, Technology     , Germany    , Frankfurt  ,2010, Active                ,86,122
+ QuantumDynamics , Quantum W         , Electronics       , Quantum Computing   , Research         ,260,31,8900, Technology     , Japan      , Nagoya    ,2009, Active                ,88,140
+ RoboTech        , AutoTech X       , Robotics          , Automation          , Industrial       ,130,18,5400, Manufacturing  , China      , Chengdu   ,2015, Inactive              ,85,102
+ BioScience      , MedTech Y         , Healthcare        , Biotechnology       , Medical          ,220,27,8100, Health         , USA        , Chicago   ,2009, Active                ,89,130
+ ITInnovations   , CodeGen Z         , Software          , Machine Learning    , IT               ,160,21,6600, IT Services    , UK         , Liverpool ,2011, Inactive              ,92,120
+ GreenTech       , EcoPower AA      , Energy            , Renewable Energy    , Green Energy     ,190,22,7200, Energy         , Australia   , Perth     ,2014, Active                ,84,110
+ QuantumInnovate , Quantum BB        , Electronics       , Quantum Computing   , Research         ,270,32,9100, Technology     , Japan      , Fukuoka   ,2006, Active                ,87,136
+ RoboSolutions   , AutoGuard CC      , Robotics          , Automation          , Industrial       ,120,17,5100, Manufacturing  , China      , Wuhan     ,2012, Inactive              ,86,95
+ BioTech Innovations , MedTech DD    , Healthcare        , Biotechnology       , Medical          ,180,22,6800, Health         , USA        , San Diego ,2008, Active                ,90,128
+ LogicSolutions   , DataBoost EE      , Software          , AI                  , B2B              ,170,19,6300, IT Services    , UK         , Bristol   ,2015, Inactive              ,91,115
+ AeroInnovate    , AeroSwift FF      , Aerospace         , AI                  , Defense          ,310,36,9600, Aerospace      , Canada     , Calgary   ,2010, Active                ,89,150
+ GreenSolutions  , EcoHeat GG        , Energy            , Renewable Energy    , Green Energy     ,150,20,6600, Energy         , Australia   , Adelaide  ,2007, Inactive              ,85,105
+ FutureInnovation , TechFuture HH    , Electronics       , IoT                 , Research         ,190,24,8400, Technology     , Germany    , Cologne   ,2013, Active                ,88,125
+ QuantumFuture   , Quantum II         , Electronics       , Quantum Computing   , Research         ,250,30,8800, Technology     , Japan      , Hiroshima ,2009, Active                ,86,140
+ Robotify        , AutoMate JJ       , Robotics          , Automation          , Industrial       ,110,16,5000, Manufacturing  , China      , Guangzhou ,2005, Inactive              ,84,98
+ HealthGenius    , BioGen KK          , Healthcare        , Biotechnology       , Medical          ,230,29,8900, Health         , USA        , Seattle   ,2011, Active                ,89,135
+ SoftLogic       , DataIntel LL      , Software          , AI                  , B2B              ,180,22,6900, IT Services    , UK         , Edinburgh ,2006, Inactive              ,90,110
+ AeroDynamics    , AeroSwift MM      , Aerospace         , AI                  , Defense          ,290,34,9400, Aerospace      , Canada     , Ottawa    ,2014, Active                ,87,145
+ GreenPower      , EcoLight NN       , Energy            , Renewable Energy    , Green Energy     ,160,21,7100, Energy         , Australia   , Canberra  ,2008, Inactive              ,83,105
+ InnovateTech    , TechWave OO       , Electronics       , IoT                 , Research         ,230,28,8300, Technology     , Germany    , Dusseldorf ,2012, Active                ,86,120
+ QuantumDynamics , Quantum PP         , Electronics       , Quantum Computing   , Research         ,270,31,9000, Technology     , Japan      , Sapporo   ,2007, Active                ,88,138
+Technosoft,Techtour,Software,IoT,Research,290,30,8050,Technology,USA,NewYork,2010,Active,80,150
